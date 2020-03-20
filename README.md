@@ -8,7 +8,9 @@ We have developed a methodology called Inference Network Based on iRefIndex Anal
 Results show that INBIA is a valuable approach to predict proteomic interactions in pathological conditions starting from the current knowledge of human protein interactions.
 
 <hr />
+
 ## License
+
 *INBIA* is distributed under the MIT license. This means that it is free for both academic and commercial use. Note however that some third party components in *INBIA* require that you reference certain works in scientific publications.
 You are free to link or use *INBIA* inside source code of your own program. If do so, please reference (cite) *INBIA* and this website. We appreciate bug fixes and would be happy to collaborate for improvements. 
 [License](https://raw.githubusercontent.com/InfOmics/INBIA/master/LICENSE)
