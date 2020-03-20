@@ -1,7 +1,9 @@
 # INBIA
-## INBIA: a boosting methodology for proteomic network inference
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [](#lang-en)
+
+## INBIA: a boosting methodology for proteomic network inference
+
 
 The analysis of tissue-specific protein interaction networks and their functional enrichment in pathological and normal tissues provides insights on the etiology of diseases. The Pan-cancer proteomic project, in The Cancer Genome Atlas, collects protein expressions in human cancers and it is a reference resource for the functional study of cancers. However, established protocols to infer interaction networks from protein expressions are still missing.
 
